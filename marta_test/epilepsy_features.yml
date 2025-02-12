@@ -1,0 +1,15 @@
+name: epilepsy_features
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - ipykernel
+  - polars
+  - nltk
+  - ca-certificates
+  - openssl
+  - pip
+  - pip:
+    - ray
+    - ipywidgets

@@ -1,0 +1,185 @@
+ICD10,ICD9,groups
+"R56.9, Z79.899",780.39,epilepsy and recurrent seizures
+"Q97.0, G40.909, D80.0","758.81, 345.90, 279.04",epilepsy and recurrent seizures
+"Q87.89, R41.843, G40.909","759.89, 799.54, 345.90, 756.0",epilepsy and recurrent seizures
+"Q87.89, Q04.3, G40.909, F78.A9","759.89, 742.2, 319, 345.90",epilepsy and recurrent seizures
+"Q87.89, G40.109, R47.9, F78.A9","759.89, 345.50, 319, 784.59",epilepsy and recurrent seizures
+"Q85.9, G40.89","759.6, 780.39",epilepsy and recurrent seizures
+"Q07.8, G40.109","742.8, 345.50",epilepsy and recurrent seizures
+"Q04.3, R56.9","742.4, 780.39",epilepsy and recurrent seizures
+"Q02, R56.9, R62.50","742.1, 780.39, 783.40",epilepsy and recurrent seizures
+P90,779,epilepsy and recurrent seizures
+P90,780.39,epilepsy and recurrent seizures
+"P70.2, P90, R62.50","775.1, 345.90, 783.40",epilepsy and recurrent seizures
+"O99.355, G40.909","649.42, 345.90",epilepsy and recurrent seizures
+"O99.355, G40.909","649.44, 345.90",epilepsy and recurrent seizures
+"O99.355, G40.909",649.44,epilepsy and recurrent seizures
+"O99.354, G40.909","649.41, 345.90",epilepsy and recurrent seizures
+"O99.354, G40.909","649.43, 345.90",epilepsy and recurrent seizures
+"O99.353, G40.909","649.43, 345.90",epilepsy and recurrent seizures
+O99.353,"649.43, 345.90",epilepsy and recurrent seizures
+"O99.352, G40.909","649.43, 345.90",epilepsy and recurrent seizures
+"O99.351, G40.909","649.43, 345.90",epilepsy and recurrent seizures
+"O99.350, G40.909","649.43, 345.90",epilepsy and recurrent seizures
+"O99.350, G40.909","649.40, 345.90",epilepsy and recurrent seizures
+nan,345.8,epilepsy and recurrent seizures
+IMO0002,345.4,epilepsy and recurrent seizures
+"I69.398, R56.9","438.89, 780.39",epilepsy and recurrent seizures
+"I69.398, G40.909","438.89, 345.90",epilepsy and recurrent seizures
+G40.B19,345.11,epilepsy and recurrent seizures
+G40.B11,"345.11, 345.3",epilepsy and recurrent seizures
+G40.B09,345.1,epilepsy and recurrent seizures
+G40.B01,"345.10, 345.3",epilepsy and recurrent seizures
+G40.A19,345.01,epilepsy and recurrent seizures
+G40.A19,780.39,epilepsy and recurrent seizures
+G40.A11,"345.01, 345.3",epilepsy and recurrent seizures
+G40.A09,345,epilepsy and recurrent seizures
+G40.A09,780.39,epilepsy and recurrent seizures
+G40.A09,345.2,epilepsy and recurrent seizures
+G40.A01,345.2,epilepsy and recurrent seizures
+G40.A01,"345.00, 345.3",epilepsy and recurrent seizures
+"G40.919, S06.9X9S","345.91, 907.0",epilepsy and recurrent seizures
+G40.919,345.91,epilepsy and recurrent seizures
+G40.911,345.91,epilepsy and recurrent seizures
+G40.911,"345.3, 345.91",epilepsy and recurrent seizures
+G40.911,345.3,epilepsy and recurrent seizures
+"G40.909, Z87.828","345.90, V15.59",epilepsy and recurrent seizures
+"G40.909, S06.9X9S","345.90, 907.0",epilepsy and recurrent seizures
+"G40.909, P91.60","345.90, 768.70",epilepsy and recurrent seizures
+"G40.909, G96.89, B99.9","345.90, 349.89, 136.9",epilepsy and recurrent seizures
+"G40.909, F09","345.90, 294.9",epilepsy and recurrent seizures
+"G40.909, D84.9","345.90, 279.8",epilepsy and recurrent seizures
+"G40.909, D49.6","345.90, 239.6",epilepsy and recurrent seizures
+G40.909,345.9,epilepsy and recurrent seizures
+G40.909,345,epilepsy and recurrent seizures
+G40.909,436,epilepsy and recurrent seizures
+G40.909,345.8,epilepsy and recurrent seizures
+G40.901,345.3,epilepsy and recurrent seizures
+G40.901,345,epilepsy and recurrent seizures
+G40.901,345.9,epilepsy and recurrent seizures
+G40.89,780.39,epilepsy and recurrent seizures
+G40.834,345.1,epilepsy and recurrent seizures
+G40.834,345.11,epilepsy and recurrent seizures
+G40.833,"345.11, 345.3",epilepsy and recurrent seizures
+G40.824,345.61,epilepsy and recurrent seizures
+G40.824,345.9,epilepsy and recurrent seizures
+G40.823,345.91,epilepsy and recurrent seizures
+G40.822,345.6,epilepsy and recurrent seizures
+G40.822,345.9,epilepsy and recurrent seizures
+G40.821,345.1,epilepsy and recurrent seizures
+G40.814,345.01,epilepsy and recurrent seizures
+G40.814,345.1,epilepsy and recurrent seizures
+G40.813,345.11,epilepsy and recurrent seizures
+G40.812,345.1,epilepsy and recurrent seizures
+G40.812,345,epilepsy and recurrent seizures
+G40.811,345,epilepsy and recurrent seizures
+G40.804,345.81,epilepsy and recurrent seizures
+G40.803,345.81,epilepsy and recurrent seizures
+G40.802,345.8,epilepsy and recurrent seizures
+G40.802,345.5,epilepsy and recurrent seizures
+G40.802,345.1,epilepsy and recurrent seizures
+G40.802,"345.80, 784.3",epilepsy and recurrent seizures
+G40.802,345.9,epilepsy and recurrent seizures
+G40.801,345.3,epilepsy and recurrent seizures
+"G40.509, S06.9X9S","345.80, 907.0",epilepsy and recurrent seizures
+G40.509,345.8,epilepsy and recurrent seizures
+G40.509,345.9,epilepsy and recurrent seizures
+G40.501,345.3,epilepsy and recurrent seizures
+G40.501,"345.90, 345.3",epilepsy and recurrent seizures
+G40.42,277.6,epilepsy and recurrent seizures
+G40.419,345.11,epilepsy and recurrent seizures
+G40.419,345.01,epilepsy and recurrent seizures
+G40.419,345.91,epilepsy and recurrent seizures
+G40.411,"345.91, 345.3",epilepsy and recurrent seizures
+G40.409,345.8,epilepsy and recurrent seizures
+G40.409,345.1,epilepsy and recurrent seizures
+G40.409,345,epilepsy and recurrent seizures
+G40.409,345.9,epilepsy and recurrent seizures
+G40.409,780.39,epilepsy and recurrent seizures
+G40.409,345.6,epilepsy and recurrent seizures
+G40.401,345.3,epilepsy and recurrent seizures
+G40.401,"345.90, 345.3",epilepsy and recurrent seizures
+G40.319,345.01,epilepsy and recurrent seizures
+G40.319,345.11,epilepsy and recurrent seizures
+G40.319,345.91,epilepsy and recurrent seizures
+G40.311,345.01,epilepsy and recurrent seizures
+G40.311,"345.01, 345.3",epilepsy and recurrent seizures
+G40.311,"345.91, 345.3",epilepsy and recurrent seizures
+G40.311,345.91,epilepsy and recurrent seizures
+G40.309,345,epilepsy and recurrent seizures
+G40.309,345.1,epilepsy and recurrent seizures
+G40.309,345.9,epilepsy and recurrent seizures
+G40.309,333.2,epilepsy and recurrent seizures
+G40.309,779,epilepsy and recurrent seizures
+G40.301,345.3,epilepsy and recurrent seizures
+G40.301,"345.90, 345.3",epilepsy and recurrent seizures
+G40.301,"345.3, 345.90",epilepsy and recurrent seizures
+G40.219,345.41,epilepsy and recurrent seizures
+G40.211,345.41,epilepsy and recurrent seizures
+G40.211,"345.41, 345.3",epilepsy and recurrent seizures
+G40.209,345.4,epilepsy and recurrent seizures
+G40.209,345.5,epilepsy and recurrent seizures
+G40.201,345.3,epilepsy and recurrent seizures
+G40.201,345.4,epilepsy and recurrent seizures
+G40.201,"345.40, 345.3",epilepsy and recurrent seizures
+G40.119,345.51,epilepsy and recurrent seizures
+G40.119,345.71,epilepsy and recurrent seizures
+G40.119,345.41,epilepsy and recurrent seizures
+G40.111,345.51,epilepsy and recurrent seizures
+G40.111,"345.51, 345.3",epilepsy and recurrent seizures
+G40.111,"345.3, 345.51",epilepsy and recurrent seizures
+"G40.109, G93.81","345.40, 348.81",epilepsy and recurrent seizures
+"G40.109, G93.81","345.90, 348.81",epilepsy and recurrent seizures
+G40.109,345.5,epilepsy and recurrent seizures
+G40.109,345.7,epilepsy and recurrent seizures
+G40.109,780.39,epilepsy and recurrent seizures
+G40.109,345.4,epilepsy and recurrent seizures
+G40.109,345.9,epilepsy and recurrent seizures
+G40.101,345.5,epilepsy and recurrent seizures
+G40.101,"345.50, 345.3",epilepsy and recurrent seizures
+G40.019,345.51,epilepsy and recurrent seizures
+G40.011,345.51,epilepsy and recurrent seizures
+G40.011,"345.51, 345.3",epilepsy and recurrent seizures
+"G40.009, G25.89, R25.8","345.50, 333.84, 781.0",epilepsy and recurrent seizures
+G40.009,345.5,epilepsy and recurrent seizures
+G40.009,345.9,epilepsy and recurrent seizures
+G40.001,345.5,epilepsy and recurrent seizures
+G40.001,"345.50, 345.3",epilepsy and recurrent seizures
+"G04.81, G40.919","323.81, 345.91",epilepsy and recurrent seizures
+"F84.0, G40.909","299.00, 345.90",epilepsy and recurrent seizures
+"F79, G40.909","319, 345.90",epilepsy and recurrent seizures
+"E88.42, G40.309",277.87,epilepsy and recurrent seizures
+"T80.89XA, R56.9","780.39, 999.89, E879.8",convulsions seizures
+"S06.0X9A, R56.9",780.39,convulsions seizures
+"R68.89, R56.9","799.89, 780.39",convulsions seizures
+"R56.9, Z87.828","780.39, V15.59",convulsions seizures
+"R56.9, Z72.820",780.39,convulsions seizures
+"R56.9, T50.905A","780.39, E947.9",convulsions seizures
+"R56.9, T45.1X5A","780.39, E933.1",convulsions seizures
+"R56.9, R47.01","780.39, 784.3",convulsions seizures
+"R56.9, R41.89","780.39, 780.09",convulsions seizures
+"R56.9, E88.9",780.39,convulsions seizures
+"R56.9, E16.2","780.39, 251.2",convulsions seizures
+R56.9,780.39,convulsions seizures
+R56.1,780.33,convulsions seizures
+"R55, R56.9","780.2, 780.39",convulsions seizures
+P90,779,convulsions seizures
+P90,780.39,convulsions seizures
+O15.9,780.39,convulsions seizures
+"N99.89, R56.9","998.89, 780.39",convulsions seizures
+"I63.9, R56.9","434.91, 780.39",convulsions seizures
+"G43.109, R56.9",346,convulsions seizures
+F44.5,780.39,convulsions seizures
+"F19.239, R56.9",292,convulsions seizures
+"F19.239, F19.288, R56.9","292.0, 304.60, 780.39",convulsions seizures
+"F19.232, R56.9","292.0, 780.39",convulsions seizures
+"F19.232, F19.288, R56.9","292.0, 780.39, 304.60",convulsions seizures
+"F19.231, R56.9","292.0, 780.39",convulsions seizures
+"F19.230, R56.9","292.0, 780.39",convulsions seizures
+"F13.239, F13.288, R56.9","292.0, 304.10, 780.39",convulsions seizures
+"F10.239, R56.9","291.81, 780.39",convulsions seizures
+"F10.232, R56.9","291.81, 780.39",convulsions seizures
+"F10.232, R56.9",291.81,convulsions seizures
+"F10.231, R56.9",291,convulsions seizures
+"F10.230, R56.9",291.81,convulsions seizures
+"B99.9, R56.9","136.9, 780.39",convulsions seizures
